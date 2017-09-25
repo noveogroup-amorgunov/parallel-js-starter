@@ -1,0 +1,15 @@
+{
+  "name": "parallel-js-starter",
+  "version": "0.0.1",
+  "description": "",
+  "main": "web_workers/run.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "node-static": "^0.7.9"
+  }
+}
